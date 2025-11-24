@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "description": "Изучить Python",
+    "status": "выполнено"
+  },
+  {
+    "id": 2,
+    "description": "asdasd",
+    "status": "не выполнено"
+  },
+  {
+    "id": 3,
+    "description": "23",
+    "status": "не выполнено"
+  }
+]
